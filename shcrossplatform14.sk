@@ -1,12 +1,14 @@
 Every 10 minutes:
-	make console execute command "broadcast Type what you want to get broadcasted here"
+	make console execute command "say Make sure you renew your Free Plan every day. Learn how here: https://www.youtube.com/watch?v=ITkP28FtWFQ"
 	
 Every 15 minutes:
-	make console execute command "broadcast Type what you want to get broadcasted here"
+	make console execute command "say We hope you are enjoying Server Horse! We power raw cross-platform servers for everyone! https://serverhorse.com (Upgrade your plan to remove branding & other limits)"
 			
 			
 
-			#Creator is xelioksss/SuPeRiS
+			# DO NOT EDIT OR DELETE THIS FILE WHILE USING OUR FREE PLAN - SERVER HORSE
+			
+			# Learn more about termination at https://serverhorse.com
 
 
 
