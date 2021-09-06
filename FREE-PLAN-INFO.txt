@@ -1,3 +1,9 @@
 # TO AVOID TERMINATION DO NOT DELETE EXISTING FILES IN THE FILE MANAGER WHILE USING THE FREE PLAN
 
+# Deleting existing files may lead to server suspension 
+
+# Upon upgrading to a paid plan, you may delete any existing files as you wish
+
 # Make sure you renew your server every day to keep your free plan. Alternatively you may upgrade to a paid plan which doesn't require renewing. 
+
+# How to renew: https://www.youtube.com/watch?v=ITkP28FtWFQ
