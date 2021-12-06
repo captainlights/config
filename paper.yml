@@ -312,7 +312,7 @@ world-settings:
       - oak_planks
       - deepslate
     viewdistances:
-      no-tick-view-distance: 7
+      no-tick-view-distance: -1
     unsupported-settings:
       fix-invulnerable-end-crystal-exploit: true
     squid-spawn-height:
