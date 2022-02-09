@@ -1,6 +1,6 @@
 
 Every 60 minutes:
-	make console execute command "say [Reminder] Renew your server before 14 days pass by in the client area."
+	make console execute command "say [Reminder] Renew your server before 14 days pass by in the client area. Create a support ticket to remove this message."
 			
 			
 
