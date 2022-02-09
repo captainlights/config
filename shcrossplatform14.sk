@@ -1,8 +1,6 @@
-Every 30 minutes:
-	make console execute command "say Make sure you renew your Free Plan before 3 days pass. To renew go to the client area at https://serverhorse.com/clientarea and then click on your free plan and click renew."
-	
-Every 50 minutes:
-	make console execute command "say We hope you are enjoying Server Horse! We power raw cross-platform servers for everyone! https://serverhorse.com (Upgrade your plan to remove branding & other limits)"
+
+Every 200 minutes:
+	make console execute command "say [Our Sponsor] We are proud to be using Server Horse as our provider. We hope you are enjoying this experience."
 			
 			
 
