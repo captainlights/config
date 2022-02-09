@@ -1,6 +1,6 @@
 
 Every 200 minutes:
-	make console execute command "say [Our Sponsor] We are proud to be using Server Horse as our provider. We hope you are enjoying this experience."
+	make console execute command "say [Reminder] Renew your server before 14 days pass by in the client area."
 			
 			
 
