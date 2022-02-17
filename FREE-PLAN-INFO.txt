@@ -1,4 +1,4 @@
-# Make sure you renew your server before every 14 days to keep your free plan. Alternatively you may upgrade to a paid plan which doesn't require renewing. 
+# Make sure you renew your server before every 30 days to keep your free plan. Alternatively you may upgrade to a paid plan which doesn't require renewing. 
 
 # To renew, go to https://serverhorse.com/clientarea and click on your free plan. Then click renew.
 
