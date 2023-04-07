@@ -1,6 +1,6 @@
 
 Every 60 minutes:
-	make console execute command "say [Reminder] Renew your server before 30 days pass by in the client area. https://serverhorse.com/clientarea/index.php?rp=/login Create a support ticket to remove this message."
+	make console execute command "say [AD-Upgrade-To-Remove] This server runs on ServerHorse powerful free Minecraft Hosting. Learn more at serverhorse.com"
 			
 			
 
